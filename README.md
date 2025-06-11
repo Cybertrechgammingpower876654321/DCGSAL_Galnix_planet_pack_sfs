@@ -3,7 +3,7 @@
 
 Welcome to the **GALNix Galaxy**, a custom planetary system mod for **Spaceflight Simulator (SFS)** — designed by **DCGSAL** 🚀
 
-Set in a distant part of the universe, this galaxy is centered around the legendary homeworld **Kerbin**, now reborn in a brand-new star system with rich exploration potential and future lore drops 😮‍💨🌍✨
+Set in a distant part of the universe, this galaxy is centered around the legendary homeworld **Earth**, now reborn in a brand-new star system with rich exploration potential and future lore drops 😮‍💨🌍✨
 
 ---
 
@@ -15,11 +15,11 @@ Set in a distant part of the universe, this galaxy is centered around the legend
 
 ## 🪐 What's Inside
 
-- 🌍 **Kerbin** – The central home planet of GALNix. A reimagined version with custom orbit and visuals.
+- 🌍 **Earth** – The central home planet of GALNix. A reimagined version with custom orbit and visuals.
 - 🌌 **GALNix Galaxy** – A fresh custom system built from the ground up for modded SFS.
 
 Coming soon:
-- 🌕 Moons of Kerbin
+- planets of ???? system
 - 🪐 More planets and stars to expand GALNix
 
 ---
