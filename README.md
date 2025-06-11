@@ -26,6 +26,6 @@ Coming soon:
 
 ## 📥 Installation Guide
 
-1. Go to the [Releases](https://github.com/DCGSAL/GALNix-Galaxy/releases) tab.
+1. Go to the Releases
 2. Download the latest ZIP (like `GALNix_v1.0.zip`)
 3. Extract it to your SFS directory:
